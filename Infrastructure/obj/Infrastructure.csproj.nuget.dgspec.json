@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\api\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\abril\\Documents\\api\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\api\\Application\\Application.csproj": {
+    "C:\\Users\\abril\\Documents\\api\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\api\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\abril\\Documents\\api\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Diego\\api\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\api\\Application\\obj\\",
+        "projectPath": "C:\\Users\\abril\\Documents\\api\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\abril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abril\\Documents\\api\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abril\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Diego\\api\\Domain\\Domain.csproj"
+              "C:\\Users\\abril\\Documents\\api\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abril\\Documents\\api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -347,20 +347,20 @@
         }
       }
     },
-    "C:\\Users\\Diego\\api\\Domain\\Domain.csproj": {
+    "C:\\Users\\abril\\Documents\\api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\abril\\Documents\\api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Diego\\api\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\api\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\abril\\Documents\\api\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\abril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abril\\Documents\\api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abril\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -408,7 +408,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -686,20 +686,20 @@
         }
       }
     },
-    "C:\\Users\\Diego\\api\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\abril\\Documents\\api\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\api\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\abril\\Documents\\api\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Diego\\api\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\api\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\abril\\Documents\\api\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\abril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abril\\Documents\\api\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abril\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -714,8 +714,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\api\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Diego\\api\\Application\\Application.csproj"
+              "C:\\Users\\abril\\Documents\\api\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\abril\\Documents\\api\\Application\\Application.csproj"
               }
             }
           }
@@ -751,7 +751,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

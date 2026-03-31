@@ -6,3 +6,12 @@ C:\Users\Diego\api\obj\Debug\net10.0\api.AssemblyInfo.cs
 C:\Users\Diego\api\obj\Debug\net10.0\api.csproj.CoreCompileInputs.cache
 C:\Users\Diego\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Diego\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.csproj.AssemblyReference.cache
+C:\Users\abril\Documents\api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.AssemblyInfoInputs.cache
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.AssemblyInfo.cs
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.csproj.CoreCompileInputs.cache
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abril\Documents\api\obj\Debug\net10.0\api.sourcelink.json
