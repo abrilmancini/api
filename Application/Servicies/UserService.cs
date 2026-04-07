@@ -1,17 +1,22 @@
 using System;
 using Domain.Entities;
+using Domain.Interfaces;
 
-namespace Application.Servicies;
+namespace Application.Services;
 
 public class UserService
 {
+    private readonly IUserRepository _repo;
+    
+
+    public UserService(IUserRepository userRepository)
+    {
+        _repo = userRepository;
+    }
+
     public List<User> GetAllUsers()
     {
-        // Lógica para obter todos os usuários
-        return new List<User>
-        {
-            new User { Id = Guid.NewGuid(), Name = "John Doe", Email = "john.doe@example.com", PasswordHash = "" },
-            new User { Id = Guid.NewGuid(), Name = "Jane Smith", Email = "jane.smith@example.com", PasswordHash = "" }
-        };
+        return _repo.GetAll();
     }
+
 }

@@ -1,7 +1,8 @@
+using Application.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Application.Servicies;
 
-namespace web.Controller
+namespace web.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -17,7 +18,7 @@ namespace web.Controller
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Funciona");
+            return Ok(_userService.GetAllUsers());
         }
     }
 }
